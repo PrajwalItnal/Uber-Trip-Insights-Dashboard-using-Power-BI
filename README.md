@@ -42,7 +42,7 @@ Uber_Data_Analysis_PowerBI/
 
 Below is a preview of the dashboard visuals showing interactive graphs and key insights (add your own screenshots here):
 
-![Overview Analysis](images/overview%20analysis.png)  
+![Dashboard Overview](images/dashboard_overview.png)
 *Full dashboard screenshot*
 
 ---
