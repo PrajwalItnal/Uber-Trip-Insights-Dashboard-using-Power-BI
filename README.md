@@ -1,5 +1,8 @@
 # Uber Trip Insights Dashboard using Power BI
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data_Modeling-blue?style=for-the-badge)
+
 ## 📘 Project Overview
 
 This project analyzes **Uber trip data** to uncover meaningful trends and patterns using **Microsoft Power BI**. The goal is to transform raw trip information into actionable insights that help understand ride demand, peak usage times, and location-based trip distribution.
@@ -19,7 +22,7 @@ Data cleaning and transformation were performed using **Power Query** inside Pow
 ---
 
 ## 📂 Folder Structure
-
+```
 Uber_Data_Analysis_PowerBI/
 │
 ├── dataset/
@@ -34,7 +37,7 @@ Uber_Data_Analysis_PowerBI/
 │ └── key_visuals.png
 │
 └── README.md
-
+```
 
 ---
 
@@ -88,6 +91,16 @@ Uber Trip Overview Analysis Dashboard built using Power BI
 ## 👍 Acknowledgements
 
 This project improves data storytelling skills using Power BI and demonstrates the ability to convert real-world datasets into business insights.
+
+---
+
+## 👤 Contact
+
+**Prajwal Itnal** *Computer Applications Student | Data Enthusiast*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-itnal/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrajwalItnal))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalitnal20@gmail.com)
 
 ---
 
